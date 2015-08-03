@@ -3,7 +3,7 @@ Contributors: kvvaradha
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=kvvaradha@gmail.com&item_name=KV Plugin Hider	
 Tags: hide adminbar, hide, kvcodes, 
 Requires at least: 3.1
-Tested up to: 3.9
+Tested up to: 4.1
 
 A simple wordpress plugin to Hide your Adminbar on your site front end for logged in users.   
 

@@ -3,7 +3,7 @@
 /*
 Plugin Name: KV Hide AdminBar For Untrusted Users
 Plugin URI: http://kvcodes.com
-Description: A simple wordpress plugin to Hide your Adminbar on your site front end for logged in users.  
+Description: A simple wordpress plugin to Hide your Adminbar on your site front end for logged in users.   <a href="http://www.kvcodes.com" target="_blank" > Read more </a> 
 Version: 1.0
 Author: kvvaradha
 Author URI: http://profiles.wordpress.org/kvvaradha
